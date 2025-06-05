@@ -1,7 +1,7 @@
 [![An image of @ananya54321's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananya54321)](https://holopin.io/@ananya54321)
 
 # Hi there 👋, I'm Ananya Pappula!
-<br><br>I'm a passionate **Full Stack Developer**, open-source enthusiast, and digital artist who loves participating in hackathons and creating innovative solutions with technology. My journey in tech spans across web development, mobile app development, and Web3.<br>- If you're building something exciting, let’s connect!<br>- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ananya-pappula) | [Email](mailto:ananyapappula2004@gmail.com)<br>- 😄 Pronouns: She/Her
+<br><br>I'm a passionate **Full Stack Developer**, open-source enthusiast, and digital artist who loves participating in hackathons and creating innovative solutions with technology. My journey in tech spans across web development, mobile app development, and Web3.<br>- If you're building something exciting, let’s connect!<br>- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ananya-pappula) | [Email](mailto:ananyapappula2004@gmail.com)
 
 
 ## 🌐 Socials:
