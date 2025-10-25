@@ -6,7 +6,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ananya-Pappula) 
-[![Twitter](https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebc6c19c2fe31de94c78e_X-vector-logo-download.png)(https://x.com/AnanyaPappula) 
 
 
 # 💻 Tech Stack:
